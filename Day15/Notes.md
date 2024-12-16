@@ -2,6 +2,10 @@
 
 ## Theme: **Active Directory Attacks**
 
+## Links
+
+- [AD Hardening](https://tryhackme.com/r/room/activedirectoryhardening)
+
 ## Common Attacks:
 
 ### Golden Ticket Attack
